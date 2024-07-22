@@ -26,7 +26,8 @@ body
     padding: 1em;
     color: var(--branco-principal);
     display: block;
-    text-decoration: none;}
+    text-decoration: none;
+    margin-bottom: 1em;}
 .botao_secundario 
    {background-color: transparent;
     border: 2px solid var(--branco-principal)}
@@ -36,3 +37,7 @@ body
 .container__titulo 
    {font-size: 28px;
     font-weight: 700;}
+.container__imagem 
+   {margin: 1em 0 2em 0;}
+.container__caixa 
+   {margin: 0 6em;}
